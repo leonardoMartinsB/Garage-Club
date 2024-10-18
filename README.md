@@ -1,6 +1,6 @@
 # Garage Club
 
-**Garage Club** é uma plataforma web desenvolvida para a compra e venda de veículos, criada como parte de um projeto acadêmico para o evento escolar anual "Visite". O site foi construído utilizando PHP e MySQL, com o objetivo de demonstrar habilidades práticas em Programação para Web (PW).
+**Garage Club** é uma plataforma web desenvolvida como um projeto pessoal, criada com o objetivo de facilitar a compra e venda de veículos de forma prática e intuitiva. O site foi construído utilizando as tecnologias PHP e MySQL, aplicando na prática o conteúdo aprendido em sala de aula durante as aulas de Programação para Web (PW). Além de ser uma realização pessoal, o projeto foi desenvolvido para o evento escolar anual "Visite", como uma oportunidade de demonstrar habilidades adquiridas ao longo do curso, aliando teoria e prática no desenvolvimento de sistemas web dinâmicos e funcionais.
 
 O sistema simula um marketplace de veículos, permitindo que os usuários publiquem, pesquisem e gerenciem seus anúncios de forma eficiente e intuitiva.
 
