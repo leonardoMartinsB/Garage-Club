@@ -42,10 +42,14 @@ O sistema simula um marketplace de veículos, permitindo que os usuários publiq
 - **Bootstrap**: Utilizado para o layout responsivo.
 - **jQuery**: Para interações dinâmicas no frontend.
 
----
 
+
+---
+### Landing Page
+---
 ![image](https://github.com/user-attachments/assets/f68487e1-17d2-499b-86db-b1602e64b695)
 
 ---
-
+### Home Screen
+---
 ![image](https://github.com/user-attachments/assets/4a4a74f5-74d3-4112-a14b-531e00a36b2c)
